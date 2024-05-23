@@ -1,0 +1,48 @@
+
+9886_UI_TotalWin_Popup.png
+size: 581,579
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Light
+  rotate: false
+  xy: 87, 33
+  size: 238, 158
+  orig: 238, 158
+  offset: 0, 0
+  index: -1
+Smoke
+  rotate: true
+  xy: 442, 422
+  size: 155, 132
+  orig: 155, 132
+  offset: 0, 0
+  index: -1
+Symbol
+  rotate: false
+  xy: 414, 225
+  size: 165, 195
+  orig: 165, 195
+  offset: 0, 0
+  index: -1
+Symbol2_00
+  rotate: true
+  xy: 87, 193
+  size: 273, 325
+  orig: 273, 325
+  offset: 0, 0
+  index: -1
+Text
+  rotate: false
+  xy: 2, 468
+  size: 438, 109
+  orig: 438, 109
+  offset: 0, 0
+  index: -1
+Text_Glow
+  rotate: true
+  xy: 2, 30
+  size: 390, 83
+  orig: 390, 83
+  offset: 0, 0
+  index: -1

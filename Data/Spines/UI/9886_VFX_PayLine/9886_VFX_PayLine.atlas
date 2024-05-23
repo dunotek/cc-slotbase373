@@ -1,0 +1,20 @@
+
+9886_VFX_PayLine.png
+size: 1759,104
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Streak_big_21
+  rotate: false
+  xy: 2, 2
+  size: 1200, 100
+  orig: 1200, 100
+  offset: 0, 0
+  index: -1
+Trail_Small_13
+  rotate: false
+  xy: 1204, 42
+  size: 553, 60
+  orig: 553, 60
+  offset: 0, 0
+  index: -1

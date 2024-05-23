@@ -1,0 +1,111 @@
+
+9886_VFX_WinLine.png
+size: 910,910
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+WinLine_00
+  rotate: false
+  xy: 2, 691
+  size: 233, 217
+  orig: 233, 217
+  offset: 0, 0
+  index: -1
+WinLine_01
+  rotate: true
+  xy: 237, 675
+  size: 233, 217
+  orig: 233, 217
+  offset: 0, 0
+  index: -1
+WinLine_02
+  rotate: true
+  xy: 2, 456
+  size: 233, 217
+  orig: 233, 217
+  offset: 0, 0
+  index: -1
+WinLine_03
+  rotate: false
+  xy: 221, 456
+  size: 233, 217
+  orig: 233, 217
+  offset: 0, 0
+  index: -1
+WinLine_04
+  rotate: true
+  xy: 456, 675
+  size: 233, 217
+  orig: 233, 217
+  offset: 0, 0
+  index: -1
+WinLine_05
+  rotate: true
+  xy: 456, 440
+  size: 233, 217
+  orig: 233, 217
+  offset: 0, 0
+  index: -1
+WinLine_06
+  rotate: true
+  xy: 2, 221
+  size: 233, 217
+  orig: 233, 217
+  offset: 0, 0
+  index: -1
+WinLine_07
+  rotate: true
+  xy: 221, 221
+  size: 233, 217
+  orig: 233, 217
+  offset: 0, 0
+  index: -1
+WinLine_08
+  rotate: false
+  xy: 440, 221
+  size: 233, 217
+  orig: 233, 217
+  offset: 0, 0
+  index: -1
+WinLine_09
+  rotate: false
+  xy: 2, 2
+  size: 233, 217
+  orig: 233, 217
+  offset: 0, 0
+  index: -1
+WinLine_10
+  rotate: false
+  xy: 237, 2
+  size: 233, 217
+  orig: 233, 217
+  offset: 0, 0
+  index: -1
+WinLine_11
+  rotate: false
+  xy: 472, 2
+  size: 233, 217
+  orig: 233, 217
+  offset: 0, 0
+  index: -1
+WinLine_12
+  rotate: true
+  xy: 675, 675
+  size: 233, 217
+  orig: 233, 217
+  offset: 0, 0
+  index: -1
+WinLine_13
+  rotate: true
+  xy: 675, 440
+  size: 233, 217
+  orig: 233, 217
+  offset: 0, 0
+  index: -1
+WinLine_14
+  rotate: false
+  xy: 675, 221
+  size: 233, 217
+  orig: 233, 217
+  offset: 0, 0
+  index: -1

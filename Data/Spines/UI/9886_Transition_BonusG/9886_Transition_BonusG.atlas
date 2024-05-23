@@ -1,0 +1,174 @@
+
+9886_Transition_BonusG.png
+size: 1071,1069
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+3
+  rotate: false
+  xy: 2, 92
+  size: 58, 68
+  orig: 58, 68
+  offset: 0, 0
+  index: -1
+3_Glow
+  rotate: true
+  xy: 979, 725
+  size: 77, 88
+  orig: 77, 88
+  offset: 0, 0
+  index: -1
+Chest
+  rotate: false
+  xy: 2, 698
+  size: 427, 369
+  orig: 427, 369
+  offset: 0, 0
+  index: -1
+FX_A/Particle_00
+  rotate: false
+  xy: 431, 801
+  size: 272, 266
+  orig: 272, 266
+  offset: 0, 0
+  index: -1
+FX_A/Particle_01
+  rotate: false
+  xy: 705, 801
+  size: 272, 266
+  orig: 272, 266
+  offset: 0, 0
+  index: -1
+FX_A/Particle_02
+  rotate: false
+  xy: 431, 533
+  size: 272, 266
+  orig: 272, 266
+  offset: 0, 0
+  index: -1
+FX_A/Particle_03
+  rotate: false
+  xy: 705, 533
+  size: 272, 266
+  orig: 272, 266
+  offset: 0, 0
+  index: -1
+FX_A/Particle_04
+  rotate: false
+  xy: 2, 430
+  size: 272, 266
+  orig: 272, 266
+  offset: 0, 0
+  index: -1
+FX_A/Particle_05
+  rotate: false
+  xy: 2, 162
+  size: 272, 266
+  orig: 272, 266
+  offset: 0, 0
+  index: -1
+FX_A/Particle_06
+  rotate: false
+  xy: 419, 205
+  size: 272, 266
+  orig: 272, 266
+  offset: 0, 0
+  index: -1
+FX_A/Particle_10
+  rotate: false
+  xy: 693, 205
+  size: 272, 266
+  orig: 272, 266
+  offset: 0, 0
+  index: -1
+Handle
+  rotate: false
+  xy: 187, 123
+  size: 41, 37
+  orig: 41, 37
+  offset: 0, 0
+  index: -1
+Handle_Ring
+  rotate: false
+  xy: 62, 94
+  size: 56, 66
+  orig: 56, 66
+  offset: 0, 0
+  index: -1
+Roll_Bot
+  rotate: false
+  xy: 979, 804
+  size: 77, 119
+  orig: 77, 119
+  offset: 0, 0
+  index: -1
+Roll_Handle
+  rotate: false
+  xy: 979, 925
+  size: 69, 142
+  orig: 69, 142
+  offset: 0, 0
+  index: -1
+Roll_Top
+  rotate: true
+  xy: 276, 202
+  size: 494, 141
+  orig: 494, 141
+  offset: 0, 0
+  index: -1
+Sparkle
+  rotate: true
+  xy: 677, 5
+  size: 198, 177
+  orig: 198, 177
+  offset: 0, 0
+  index: -1
+Text
+  rotate: false
+  xy: 276, 102
+  size: 399, 98
+  orig: 399, 98
+  offset: 0, 0
+  index: -1
+Text_1
+  rotate: true
+  xy: 1018, 619
+  size: 104, 44
+  orig: 104, 44
+  offset: 0, 0
+  index: -1
+Text_2
+  rotate: true
+  xy: 979, 591
+  size: 132, 37
+  orig: 132, 37
+  offset: 0, 0
+  index: -1
+Text_3
+  rotate: false
+  xy: 120, 115
+  size: 65, 45
+  orig: 65, 45
+  offset: 0, 0
+  index: -1
+Text_4
+  rotate: true
+  xy: 1018, 547
+  size: 70, 51
+  orig: 70, 51
+  offset: 0, 0
+  index: -1
+Text_5
+  rotate: true
+  xy: 1016, 473
+  size: 72, 47
+  orig: 72, 47
+  offset: 0, 0
+  index: -1
+Text_6
+  rotate: false
+  xy: 979, 541
+  size: 35, 48
+  orig: 35, 48
+  offset: 0, 0
+  index: -1

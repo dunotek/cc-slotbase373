@@ -1,0 +1,334 @@
+
+9886_UI_JackpotWin.png
+size: 1257,1257
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BinkLight
+  rotate: false
+  xy: 1042, 268
+  size: 188, 161
+  orig: 188, 161
+  offset: 0, 0
+  index: -1
+Frame
+  rotate: true
+  xy: 2, 41
+  size: 454, 220
+  orig: 454, 220
+  offset: 0, 0
+  index: -1
+KT_ArmL
+  rotate: true
+  xy: 224, 33
+  size: 169, 251
+  orig: 169, 251
+  offset: 0, 0
+  index: -1
+KT_ArmR
+  rotate: true
+  xy: 738, 1063
+  size: 192, 395
+  orig: 192, 395
+  offset: 0, 0
+  index: -1
+KT_Backhair
+  rotate: false
+  xy: 1143, 448
+  size: 85, 98
+  orig: 85, 98
+  offset: 0, 0
+  index: -1
+KT_Body
+  rotate: false
+  xy: 600, 556
+  size: 237, 333
+  orig: 237, 333
+  offset: 0, 0
+  index: -1
+KT_Dress_1
+  rotate: false
+  xy: 1135, 1086
+  size: 105, 169
+  orig: 105, 169
+  offset: 0, 0
+  index: -1
+KT_Dress_2
+  rotate: true
+  xy: 805, 7
+  size: 126, 166
+  orig: 126, 166
+  offset: 0, 0
+  index: -1
+KT_Dress_3
+  rotate: false
+  xy: 982, 136
+  size: 146, 130
+  orig: 146, 130
+  offset: 0, 0
+  index: -1
+KT_EyeL
+  rotate: false
+  xy: 295, 497
+  size: 40, 30
+  orig: 40, 30
+  offset: 0, 0
+  index: -1
+KT_EyeLid
+  rotate: false
+  xy: 1048, 100
+  size: 73, 34
+  orig: 73, 34
+  offset: 0, 0
+  index: -1
+KT_EyeR
+  rotate: false
+  xy: 337, 497
+  size: 36, 30
+  orig: 36, 30
+  offset: 0, 0
+  index: -1
+KT_EyeSkin
+  rotate: false
+  xy: 1048, 64
+  size: 73, 34
+  orig: 73, 34
+  offset: 0, 0
+  index: -1
+KT_Flower
+  rotate: true
+  xy: 689, 243
+  size: 55, 62
+  orig: 55, 62
+  offset: 0, 0
+  index: -1
+KT_HairFront
+  rotate: false
+  xy: 1130, 138
+  size: 122, 128
+  orig: 122, 128
+  offset: 0, 0
+  index: -1
+KT_HairR
+  rotate: false
+  xy: 2, 497
+  size: 291, 446
+  orig: 291, 446
+  offset: 0, 0
+  index: -1
+KT_Hairpin
+  rotate: false
+  xy: 1143, 548
+  size: 85, 114
+  orig: 85, 114
+  offset: 0, 0
+  index: -1
+KT_Hairpin2
+  rotate: false
+  xy: 973, 37
+  size: 73, 96
+  orig: 73, 96
+  offset: 0, 0
+  index: -1
+KT_Hairpin3
+  rotate: false
+  xy: 1176, 683
+  size: 75, 111
+  orig: 75, 111
+  offset: 0, 0
+  index: -1
+KT_HandR
+  rotate: false
+  xy: 530, 13
+  size: 73, 43
+  orig: 73, 43
+  offset: 0, 0
+  index: -1
+KT_Head
+  rotate: false
+  xy: 477, 58
+  size: 174, 183
+  orig: 174, 183
+  offset: 0, 0
+  index: -1
+KT_LegL
+  rotate: true
+  xy: 689, 300
+  size: 254, 118
+  orig: 254, 118
+  offset: 0, 0
+  index: -1
+KT_LegR
+  rotate: true
+  xy: 295, 529
+  size: 414, 303
+  orig: 414, 303
+  offset: 0, 0
+  index: -1
+NP_ArmLeft
+  rotate: false
+  xy: 469, 243
+  size: 218, 284
+  orig: 218, 284
+  offset: 0, 0
+  index: -1
+NP_ArmRight
+  rotate: false
+  xy: 653, 56
+  size: 150, 185
+  orig: 150, 185
+  offset: 0, 0
+  index: -1
+NP_ArmorLeft
+  rotate: true
+  xy: 809, 271
+  size: 158, 231
+  orig: 158, 231
+  offset: 0, 0
+  index: -1
+NP_BOdy
+  rotate: true
+  xy: 839, 431
+  size: 231, 302
+  orig: 231, 302
+  offset: 0, 0
+  index: -1
+NP_Bell
+  rotate: false
+  xy: 805, 135
+  size: 175, 134
+  orig: 175, 134
+  offset: 0, 0
+  index: -1
+NP_Cape
+  rotate: false
+  xy: 839, 664
+  size: 335, 225
+  orig: 335, 225
+  offset: 0, 0
+  index: -1
+NP_EyeL
+  rotate: false
+  xy: 670, 1092
+  size: 42, 41
+  orig: 42, 41
+  offset: 0, 0
+  index: -1
+NP_EyeLid
+  rotate: false
+  xy: 59, 7
+  size: 76, 32
+  orig: 76, 32
+  offset: 0, 0
+  index: -1
+NP_EyeR
+  rotate: false
+  xy: 600, 920
+  size: 24, 23
+  orig: 24, 23
+  offset: 0, 0
+  index: -1
+NP_EyeSkin
+  rotate: false
+  xy: 137, 7
+  size: 76, 32
+  orig: 76, 32
+  offset: 0, 0
+  index: -1
+NP_HandLeft
+  rotate: false
+  xy: 477, 2
+  size: 51, 54
+  orig: 51, 54
+  offset: 0, 0
+  index: -1
+NP_HandRight
+  rotate: true
+  xy: 2, 2
+  size: 37, 55
+  orig: 37, 55
+  offset: 0, 0
+  index: -1
+NP_Head
+  rotate: false
+  xy: 224, 204
+  size: 243, 291
+  orig: 243, 291
+  offset: 0, 0
+  index: -1
+NP_LeftForearm
+  rotate: false
+  xy: 1176, 796
+  size: 79, 93
+  orig: 79, 93
+  offset: 0, 0
+  index: -1
+NP_Legs
+  rotate: false
+  xy: 670, 891
+  size: 519, 170
+  orig: 519, 170
+  offset: 0, 0
+  index: -1
+RedLight
+  rotate: false
+  xy: 2, 1135
+  size: 734, 120
+  orig: 734, 120
+  offset: 0, 0
+  index: -1
+Text
+  rotate: false
+  xy: 2, 945
+  size: 666, 188
+  orig: 666, 188
+  offset: 0, 0
+  index: -1
+
+9886_UI_JackpotWin2.png
+size: 560,558
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Notiny/Butterfly
+  rotate: false
+  xy: 324, 181
+  size: 137, 134
+  orig: 137, 134
+  offset: 0, 0
+  index: -1
+Notiny/CircleLight
+  rotate: false
+  xy: 2, 7
+  size: 305, 215
+  orig: 305, 215
+  offset: 0, 0
+  index: -1
+Notiny/Fly
+  rotate: false
+  xy: 535, 532
+  size: 23, 24
+  orig: 23, 24
+  offset: 0, 0
+  index: -1
+Notiny/RedFire
+  rotate: true
+  xy: 324, 317
+  size: 239, 209
+  orig: 239, 209
+  offset: 0, 0
+  index: -1
+Notiny/TextShadow
+  rotate: true
+  xy: 463, 167
+  size: 148, 59
+  orig: 148, 59
+  offset: 0, 0
+  index: -1
+Notiny/VioletFire
+  rotate: false
+  xy: 2, 224
+  size: 320, 332
+  orig: 320, 332
+  offset: 0, 0
+  index: -1

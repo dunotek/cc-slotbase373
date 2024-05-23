@@ -1,0 +1,107 @@
+{
+    "Steps": [
+        {
+            "command": "_enableAutoSpin",
+            "data": false
+        },
+        {
+            "command": "_lockTouch",
+            "data": {
+                "gradient": false
+            }
+        },
+        {
+            "command": "_activeBet",
+            "data": {
+                "active": false
+            }
+        },
+        {
+            "command": "_enableTrialJP"
+        },
+        {
+            "command": "_openGameModeSelection"
+        },
+        {
+            "command": "_waitFor",
+            "data": {
+                "trigger": [
+                    "SELECTED_GAME_MODE"
+                ]
+            }
+        },
+        {
+            "command": "_startSpinning"
+        },
+        {
+            "command": "_waitFor",
+            "data": {
+                "trigger": [
+                    "ENTER_GAME_MODE"
+                ]
+            }
+        },
+        {
+            "command": "_onShowButtonBack"
+        },
+        {
+            "command": "_unlockTouch"
+        },
+        {
+            "command": "_resumeCurrentScript"
+        },
+        {
+            "command": "_waitFor",
+            "data": {
+                "trigger": [
+                    "READY_NEW_SPIN"
+                ]
+            }
+        },
+        {
+            "command": "_enableTrialJP"
+        },
+        {
+            "command": "_openGameModeSelection"
+        },
+        {
+            "command": "_waitFor",
+            "data": {
+                "trigger": [
+                    "SELECTED_GAME_MODE"
+                ]
+            }
+        },
+        {
+            "command": "_startSpinning"
+        },
+        {
+            "command": "_unlockTouch"
+        },
+        {
+            "command": "_waitFor",
+            "data": {
+                "trigger": [
+                    "READY_NEW_SPIN"
+                ]
+            }
+        },
+        {
+            "command": "_enableTrialJP"
+        },
+        {
+            "command": "_showPopupFinishTutorial"
+        },
+        {
+            "command": "_waitFor",
+            "data": {
+                "trigger": [
+                    "GAME_RESET_SESSION"
+                ]
+            }
+        },
+        {
+            "command": "_onFinishedTutorial"
+        }
+    ]
+}

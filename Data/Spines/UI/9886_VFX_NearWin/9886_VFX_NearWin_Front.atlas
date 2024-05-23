@@ -1,0 +1,132 @@
+
+9886_VFX_NearWin_Front.png
+size: 977,975
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Glow
+  rotate: true
+  xy: 312, 211
+  size: 115, 107
+  orig: 115, 107
+  offset: 0, 0
+  index: -1
+Gradient
+  rotate: true
+  xy: 155, 649
+  size: 15, 58
+  orig: 15, 58
+  offset: 0, 0
+  index: -1
+NearWin_00
+  rotate: true
+  xy: 312, 20
+  size: 151, 331
+  orig: 154, 338
+  offset: 2, 0
+  index: -1
+NearWin_01
+  rotate: true
+  xy: 645, 20
+  size: 151, 330
+  orig: 154, 338
+  offset: 2, 0
+  index: -1
+NearWin_02
+  rotate: false
+  xy: 494, 481
+  size: 151, 336
+  orig: 154, 338
+  offset: 2, 0
+  index: -1
+NearWin_03
+  rotate: false
+  xy: 802, 484
+  size: 152, 333
+  orig: 154, 338
+  offset: 1, 0
+  index: -1
+NearWin_04
+  rotate: true
+  xy: 421, 173
+  size: 152, 333
+  orig: 154, 338
+  offset: 1, 0
+  index: -1
+NearWin_05
+  rotate: false
+  xy: 647, 484
+  size: 153, 333
+  orig: 154, 338
+  offset: 1, 0
+  index: -1
+NearWin_06
+  rotate: false
+  xy: 2, 143
+  size: 153, 334
+  orig: 154, 338
+  offset: 1, 0
+  index: -1
+NearWin_07
+  rotate: true
+  xy: 155, 819
+  size: 154, 336
+  orig: 154, 338
+  offset: 0, 0
+  index: -1
+NearWin_08
+  rotate: true
+  xy: 2, 479
+  size: 154, 337
+  orig: 154, 338
+  offset: 0, 0
+  index: -1
+NearWin_09
+  rotate: true
+  xy: 493, 819
+  size: 154, 336
+  orig: 154, 338
+  offset: 0, 0
+  index: -1
+NearWin_10
+  rotate: false
+  xy: 157, 143
+  size: 153, 334
+  orig: 154, 338
+  offset: 1, 0
+  index: -1
+NearWin_11
+  rotate: true
+  xy: 494, 327
+  size: 152, 334
+  orig: 154, 338
+  offset: 1, 0
+  index: -1
+NearWin_12
+  rotate: false
+  xy: 341, 328
+  size: 151, 336
+  orig: 154, 338
+  offset: 2, 0
+  index: -1
+NearWin_13
+  rotate: true
+  xy: 155, 666
+  size: 151, 337
+  orig: 154, 338
+  offset: 2, 0
+  index: -1
+NearWin_14
+  rotate: false
+  xy: 2, 635
+  size: 151, 338
+  orig: 154, 338
+  offset: 2, 0
+  index: -1
+Spark
+  rotate: false
+  xy: 831, 846
+  size: 121, 127
+  orig: 121, 127
+  offset: 0, 0
+  index: -1

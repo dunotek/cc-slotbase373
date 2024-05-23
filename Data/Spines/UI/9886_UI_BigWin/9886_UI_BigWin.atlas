@@ -1,0 +1,510 @@
+
+9886_UI_BigWin.png
+size: 1620,1620
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BKV_Arm_Left
+  rotate: true
+  xy: 1574, 482
+  size: 64, 30
+  orig: 64, 30
+  offset: 0, 0
+  index: -1
+BKV_Arm_Left_Level_2
+  rotate: false
+  xy: 1512, 412
+  size: 77, 48
+  orig: 77, 48
+  offset: 0, 0
+  index: -1
+BKV_Armor_Left
+  rotate: false
+  xy: 1525, 954
+  size: 48, 36
+  orig: 48, 36
+  offset: 0, 0
+  index: -1
+BKV_Armor_Level_2
+  rotate: true
+  xy: 524, 692
+  size: 75, 40
+  orig: 75, 40
+  offset: 0, 0
+  index: -1
+BKV_Aura_Armor_Level_2
+  rotate: true
+  xy: 1565, 1382
+  size: 87, 49
+  orig: 87, 49
+  offset: 0, 0
+  index: -1
+BKV_Aura_Hand_Level_2
+  rotate: false
+  xy: 1505, 342
+  size: 63, 68
+  orig: 63, 68
+  offset: 0, 0
+  index: -1
+BKV_Aura_Head_Level_2
+  rotate: true
+  xy: 1542, 548
+  size: 64, 72
+  orig: 64, 72
+  offset: 0, 0
+  index: -1
+BKV_Belt
+  rotate: false
+  xy: 1542, 614
+  size: 76, 40
+  orig: 76, 40
+  offset: 0, 0
+  index: -1
+BKV_Body
+  rotate: false
+  xy: 1449, 569
+  size: 67, 81
+  orig: 67, 81
+  offset: 0, 0
+  index: -1
+BKV_Effect
+  rotate: true
+  xy: 1460, 73
+  size: 147, 146
+  orig: 147, 146
+  offset: 0, 0
+  index: -1
+BKV_Fabric_Left
+  rotate: false
+  xy: 864, 60
+  size: 132, 44
+  orig: 132, 44
+  offset: 0, 0
+  index: -1
+BKV_Fabric_Left_Bottom
+  rotate: true
+  xy: 1542, 656
+  size: 72, 76
+  orig: 72, 76
+  offset: 0, 0
+  index: -1
+BKV_Fabric_Middle
+  rotate: true
+  xy: 1518, 573
+  size: 77, 22
+  orig: 77, 22
+  offset: 0, 0
+  index: -1
+BKV_Fabric_Right
+  rotate: true
+  xy: 1010, 755
+  size: 102, 21
+  orig: 102, 21
+  offset: 0, 0
+  index: -1
+BKV_Fabric_Right_Bottom
+  rotate: true
+  xy: 1505, 258
+  size: 82, 49
+  orig: 82, 49
+  offset: 0, 0
+  index: -1
+BKV_Finger_Left
+  rotate: false
+  xy: 1010, 664
+  size: 21, 25
+  orig: 21, 25
+  offset: 0, 0
+  index: -1
+BKV_Hand_Left
+  rotate: false
+  xy: 1565, 222
+  size: 23, 50
+  orig: 23, 50
+  offset: 0, 0
+  index: -1
+BKV_Hand_Level_2
+  rotate: false
+  xy: 1449, 413
+  size: 61, 65
+  orig: 61, 65
+  offset: 0, 0
+  index: -1
+BKV_Hand_Right
+  rotate: true
+  xy: 524, 619
+  size: 71, 25
+  orig: 71, 25
+  offset: 0, 0
+  index: -1
+BKV_Head
+  rotate: false
+  xy: 1512, 462
+  size: 60, 84
+  orig: 60, 84
+  offset: 0, 0
+  index: -1
+BKV_Leg
+  rotate: true
+  xy: 1154, 55
+  size: 112, 173
+  orig: 112, 173
+  offset: 0, 0
+  index: -1
+BKV_Scarf
+  rotate: false
+  xy: 851, 2
+  size: 90, 56
+  orig: 90, 56
+  offset: 0, 0
+  index: -1
+BKV_Sword
+  rotate: true
+  xy: 969, 640
+  size: 217, 39
+  orig: 217, 39
+  offset: 0, 0
+  index: -1
+BKV_VFX_Sword
+  rotate: true
+  xy: 1328, 411
+  size: 227, 119
+  orig: 227, 119
+  offset: 0, 0
+  index: -1
+Brightness/Contrast 1
+  rotate: true
+  xy: 1463, 989
+  size: 373, 60
+  orig: 373, 60
+  offset: 0, 0
+  index: -1
+CHA_TL1316 copy
+  rotate: false
+  xy: 567, 520
+  size: 400, 337
+  orig: 400, 337
+  offset: 0, 0
+  index: -1
+Frame
+  rotate: false
+  xy: 2, 62
+  size: 573, 209
+  orig: 573, 209
+  offset: 0, 0
+  index: -1
+Layer 2789
+  rotate: true
+  xy: 1329, 48
+  size: 160, 129
+  orig: 160, 129
+  offset: 0, 0
+  index: -1
+Layer 2789 copy
+  rotate: true
+  xy: 757, 315
+  size: 203, 210
+  orig: 203, 210
+  offset: 0, 0
+  index: -1
+Layer 2796 copy 2
+  rotate: true
+  xy: 1154, 169
+  size: 174, 173
+  orig: 174, 173
+  offset: 0, 0
+  index: -1
+Layer 2796 copy 3
+  rotate: true
+  xy: 791, 106
+  size: 207, 205
+  orig: 207, 205
+  offset: 0, 0
+  index: -1
+Layer 2798
+  rotate: false
+  xy: 2, 273
+  size: 520, 494
+  orig: 520, 494
+  offset: 0, 0
+  index: -1
+Layer 2798 copy
+  rotate: false
+  xy: 1033, 954
+  size: 428, 408
+  orig: 428, 408
+  offset: 0, 0
+  index: -1
+Layer 2799
+  rotate: false
+  xy: 2, 769
+  size: 563, 562
+  orig: 563, 562
+  offset: 0, 0
+  index: -1
+Layer 2799 copy
+  rotate: false
+  xy: 567, 859
+  size: 464, 472
+  orig: 464, 472
+  offset: 0, 0
+  index: -1
+Layer 2800
+  rotate: false
+  xy: 959, 1364
+  size: 604, 254
+  orig: 604, 254
+  offset: 0, 0
+  index: -1
+Levels 5
+  rotate: false
+  xy: 577, 67
+  size: 212, 230
+  orig: 212, 230
+  offset: 0, 0
+  index: -1
+Light_1
+  rotate: false
+  xy: 1505, 222
+  size: 58, 34
+  orig: 58, 34
+  offset: 0, 0
+  index: -1
+Light_2
+  rotate: true
+  xy: 1449, 480
+  size: 87, 61
+  orig: 87, 61
+  offset: 0, 0
+  index: -1
+Light_3
+  rotate: true
+  xy: 1556, 274
+  size: 66, 52
+  orig: 66, 52
+  offset: 0, 0
+  index: -1
+NP_Arm_Left
+  rotate: false
+  xy: 943, 28
+  size: 47, 30
+  orig: 47, 30
+  offset: 0, 0
+  index: -1
+NP_Arm_Right
+  rotate: true
+  xy: 1144, 8
+  size: 45, 64
+  orig: 45, 64
+  offset: 0, 0
+  index: -1
+NP_Armor_Shoulder_Right
+  rotate: false
+  xy: 1210, 14
+  size: 52, 39
+  orig: 52, 39
+  offset: 0, 0
+  index: -1
+NP_Aura_Arm_Right
+  rotate: false
+  xy: 1460, 2
+  size: 67, 69
+  orig: 67, 69
+  offset: 0, 0
+  index: -1
+NP_Aura_Fabric_Right
+  rotate: true
+  xy: 1525, 992
+  size: 142, 72
+  orig: 142, 72
+  offset: 0, 0
+  index: -1
+NP_Aura_Hair
+  rotate: false
+  xy: 1448, 730
+  size: 125, 73
+  orig: 125, 73
+  offset: 0, 0
+  index: -1
+NP_Aurra_Sword
+  rotate: false
+  xy: 998, 144
+  size: 154, 199
+  orig: 154, 199
+  offset: 0, 0
+  index: -1
+NP_Belt_Right
+  rotate: false
+  xy: 998, 1343
+  size: 33, 19
+  orig: 33, 19
+  offset: 0, 0
+  index: -1
+NP_Body
+  rotate: true
+  xy: 1529, 8
+  size: 63, 89
+  orig: 63, 89
+  offset: 0, 0
+  index: -1
+NP_Effect
+  rotate: true
+  xy: 1448, 805
+  size: 147, 146
+  orig: 147, 146
+  offset: 0, 0
+  index: -1
+NP_Fabric_Bottom
+  rotate: true
+  xy: 1428, 222
+  size: 187, 75
+  orig: 187, 75
+  offset: 0, 0
+  index: -1
+NP_Fabric_Left
+  rotate: false
+  xy: 1010, 691
+  size: 15, 62
+  orig: 15, 62
+  offset: 0, 0
+  index: -1
+NP_Fabric_Right
+  rotate: false
+  xy: 577, 2
+  size: 145, 63
+  orig: 145, 63
+  offset: 0, 0
+  index: -1
+NP_Face
+  rotate: true
+  xy: 1264, 16
+  size: 37, 54
+  orig: 37, 54
+  offset: 0, 0
+  index: -1
+NP_Finger
+  rotate: true
+  xy: 969, 318
+  size: 25, 27
+  orig: 25, 27
+  offset: 0, 0
+  index: -1
+NP_Hair
+  rotate: false
+  xy: 724, 2
+  size: 125, 63
+  orig: 125, 63
+  offset: 0, 0
+  index: -1
+NP_Hair_Left
+  rotate: true
+  xy: 1428, 210
+  size: 10, 25
+  orig: 10, 25
+  offset: 0, 0
+  index: -1
+NP_Hair_Right
+  rotate: false
+  xy: 943, 2
+  size: 66, 20
+  orig: 66, 20
+  offset: 0, 0
+  index: -1
+NP_Hand_Left
+  rotate: true
+  xy: 959, 1333
+  size: 29, 37
+  orig: 29, 37
+  offset: 0, 0
+  index: -1
+NP_Hand_Right
+  rotate: true
+  xy: 791, 67
+  size: 37, 71
+  orig: 37, 71
+  offset: 0, 0
+  index: -1
+NP_Leg_Left
+  rotate: true
+  xy: 1448, 652
+  size: 76, 92
+  orig: 76, 92
+  offset: 0, 0
+  index: -1
+NP_Leg_Right
+  rotate: false
+  xy: 1565, 1471
+  size: 46, 147
+  orig: 46, 147
+  offset: 0, 0
+  index: -1
+NP_Sword
+  rotate: false
+  xy: 1329, 210
+  size: 97, 199
+  orig: 97, 199
+  offset: 0, 0
+  index: -1
+NP_VFX_Sword
+  rotate: true
+  xy: 998, 24
+  size: 118, 144
+  orig: 118, 144
+  offset: 0, 0
+  index: -1
+NP__Aura_Armor_Shoulder_Right
+  rotate: false
+  xy: 1463, 957
+  size: 50, 30
+  orig: 50, 30
+  offset: 0, 0
+  index: -1
+Selective Color 2
+  rotate: false
+  xy: 524, 299
+  size: 231, 219
+  orig: 231, 219
+  offset: 0, 0
+  index: -1
+Text
+  rotate: false
+  xy: 2, 2
+  size: 318, 58
+  orig: 318, 58
+  offset: 0, 0
+  index: -1
+Text1
+  rotate: false
+  xy: 322, 3
+  size: 224, 57
+  orig: 224, 57
+  offset: 0, 0
+  index: -1
+Text2
+  rotate: true
+  xy: 1525, 1136
+  size: 226, 59
+  orig: 226, 59
+  offset: 0, 0
+  index: -1
+e26d908507e6f03952c67bdc3eec7318b664fc3bb62f0-dinih3 copy
+  rotate: false
+  xy: 1033, 640
+  size: 413, 312
+  orig: 413, 312
+  offset: 0, 0
+  index: -1
+e26d908507e6f03952c67bdc3eec7318b664fc3bb62f0-dinih3 copy 2
+  rotate: false
+  xy: 969, 345
+  size: 357, 293
+  orig: 357, 293
+  offset: 0, 0
+  index: -1
+fx
+  rotate: false
+  xy: 2, 1333
+  size: 955, 285
+  orig: 955, 285
+  offset: 0, 0
+  index: -1

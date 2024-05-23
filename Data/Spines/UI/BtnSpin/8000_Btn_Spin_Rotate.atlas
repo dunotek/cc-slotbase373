@@ -1,0 +1,13 @@
+
+9886_Btn_Spin_Rotate.png
+size: 251,249
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+9886_Rotate
+  rotate: false
+  xy: 2, 4
+  size: 247, 243
+  orig: 247, 243
+  offset: 0, 0
+  index: -1
